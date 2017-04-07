@@ -1,0 +1,34 @@
+[
+    { 
+        "en": "Hello", 
+        "fs": "Salam" 
+    },
+    {
+        "en": "How are you?",
+        "fs": "Chetori?"
+    },
+    {
+        "en": "My name is...",
+        "fs": "Esme man..."
+    },
+    {
+        "en": "Good morning",
+        "fs": "Sohb bekheir"
+    },
+    {
+        "en": "Good evening",
+        "fs": "Asr bekheir"
+    },
+    {
+        "en": "Good night",
+        "fs": "Shab bekheir"
+    },
+    {
+        "en": "Pleased to meet you",
+        "fs": "Khosh Vaghtam"
+    },
+    {
+        "en": "Thanks",
+        "fs": "Merci"
+    }
+]
