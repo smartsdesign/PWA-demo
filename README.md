@@ -21,7 +21,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 * Run `npm run sw`
 
-### start local server
+### Start local server
 
 * Run `npm run static-server`. This should start the page in the browser.
 
