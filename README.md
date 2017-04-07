@@ -9,9 +9,9 @@ A demo Progressive Web App leveraging Service Workers (sw-precache specifically)
 * sw-precache
 
 ## To run app
-
-- Run `npm install`
-- Install Angular-CLI if not already installed on your dev environment `npm install -g @angular/cli`
+* Clone repo `git clone https://github.com/smartsdesign/PWA-demo.git`
+* Run `npm install`
+* Install Angular-CLI if not already installed on your dev environment `npm install -g @angular/cli`
 
 ### Build for production
 
